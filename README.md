@@ -1,5 +1,3 @@
-# Thilak
-Hello World , this is my profile.
 <h1 align="center">Hi 👋, I'm Thilak</h1>
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 
@@ -15,6 +13,7 @@ Hello World , this is my profile.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/thilak sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilak sekar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +22,3 @@ Hello World , this is my profile.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilak890&show_icons=true&locale=en&layout=compact" alt="thilak890" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilak890&show_icons=true&locale=en" alt="thilak890" /></p>
-
